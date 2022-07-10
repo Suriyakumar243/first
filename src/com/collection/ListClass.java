@@ -97,10 +97,13 @@ public class ListClass {
 			  System.out.println(integer);
 			
 		}
-		  
 		  System.out.println("java");
 		  System.out.println("java");
 		  System.out.println("java");
+		  System.out.println("rahul");
+		  System.out.println("rahul");
+		  System.out.println("rahul");
+		  System.out.println("rahul");
 		 
 		 
 		 
